@@ -1,5 +1,3 @@
-# Hi there! I'm Rachel (ReginaExMachina) 👋
-
 ### 👩‍💻 QA Engineer | Tech Enthusiast | Problem Solver
 
 I am a detail-oriented Quality Assurance professional based in Toronto, with a background in high-stakes healthcare technology and a passion for building robust, compliance-aware systems. My work bridges the gap between manual precision and automated efficiency.
