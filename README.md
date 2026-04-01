@@ -1,5 +1,5 @@
-# ✧ R · X · M ✧
-### [reginaexmachina.github.io](https://reginaexmachina.github.io/)
+# R · X · M
+### [Explore the Full Portfolio](https://reginaexmachina.github.io/)
 
 ---
 
