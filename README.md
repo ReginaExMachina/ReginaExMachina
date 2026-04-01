@@ -1,8 +1,3 @@
-# R · X · M
-### [Explore the Full Portfolio →](https://reginaexmachina.github.io/)
-
----
-
 ### 👩‍💻 QA Engineer | Game Developer | Data Enthusiast
 I am a Quality Assurance professional based in Toronto, with a background in high-stakes healthcare technology and a passion for building robust, compliance-aware systems. My work bridges the gap between manual precision and automated efficiency.
 
