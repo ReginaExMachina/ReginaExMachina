@@ -12,9 +12,9 @@ I am a Quality Assurance professional based in Toronto, with a background in hig
 
 ### 🛠️ Tech Stack & Tools:
 
-- **Languages:** Python, JavaScript, TypeScript, C#, SQL
+- **Languages:** Python, Ruby, JavaScript, TypeScript, C#, SQL
 - **Testing Tools:** Selenium WebDriver, Playwright, Postman, SoapUI, Jira
-- **Frameworks/Libraries:** Unity, TensorFlow.js, CSS Grid Systems (Scaffold)
+- **Frameworks/Libraries:** Unity, TensorFlow.js, CSS Grid Systems
 - **Environments:** PHIPA-regulated systems, Web Applications, Game Engines
 
 ---
