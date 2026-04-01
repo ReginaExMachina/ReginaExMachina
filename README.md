@@ -1,5 +1,4 @@
-# ✧ R · X · M ✧
-### [reginaexmachina.github.io](https://reginaexmachina.github.io/)
+# <div align="center"><a href="https://reginaexmachina.github.io/" style="text-decoration: none; color: #b8860b;">R · X · M</a></div>
 
 ---
 
