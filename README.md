@@ -1,9 +1,10 @@
-# <div align="center"><a href="https://reginaexmachina.github.io/" style="text-decoration: none; color: #b8860b;">R · X · M</a></div>
+# ✧ R · X · M ✧
+### [reginaexmachina.github.io](https://reginaexmachina.github.io/)
 
 ---
 
 ### 👩‍💻 QA Engineer | Game Developer | Data Enthusiast
-I am a detail-oriented Quality Assurance professional based in Toronto, with a background in high-stakes healthcare technology and a passion for building robust, compliance-aware systems. My work bridges the gap between manual precision and automated efficiency.
+I am a Quality Assurance professional based in Toronto, with a background in high-stakes healthcare technology and a passion for building robust, compliance-aware systems. My work bridges the gap between manual precision and automated efficiency.
 
 ---
 
