@@ -1,22 +1,26 @@
-### 👩‍💻 QA Engineer | Tech Enthusiast | Problem Solver
-
-I am a detail-oriented Quality Assurance professional based in Toronto, with a background in high-stakes healthcare technology and a passion for building robust, compliance-aware systems. My work bridges the gap between manual precision and automated efficiency.
+# ✧ R · X · M ✧
+### [Explore the Full Portfolio →](https://reginaexmachina.github.io/)
 
 ---
 
-### 🚀 What I'm currently working on:
-- 🛠️ Deepening my expertise in **Test Automation** (Selenium, Cypress).
-- 🧬 Exploring the intersection of **Data Analysis** and **Quality Assurance**.
-- 🎮 Game Development experiments with **Unity & C#**.
+### 👩‍💻 QA Engineer | Game Developer | Data Enthusiast
+I am a detail-oriented Quality Assurance specialist based in Toronto, bridging the gap between manual precision and automated efficiency. My work focuses on building robust, compliance-aware systems across healthcare technology and interactive media.
+
+---
+
+### 🚀 Active Projects:
+- 🎮 **Solo Unity Title:** Developing an indie adventure with a "QA-first" cycle using **Playwright** for automated gameplay verification.
+- 🧪 **Test Automation:** Refining CI/CD pipelines and deepening expertise in Selenium and Cypress.
+- 🧬 **Data-Driven Quality:** Exploring statistical modeling and Python-based visualization for software performance.
 
 ---
 
 ### 🛠️ Tech Stack & Tools:
 
 - **Languages:** Python, JavaScript, TypeScript, C#, SQL
-- **Testing Tools:** Selenium WebDriver, Postman, SoapUI, Jira, Confluence
-- **Frameworks/Libraries:** TensorFlow.js, CSS Grid Systems (Scaffold)
-- **Environments:** PHIPA-regulated systems, Web Applications, Game Engines
+- **Testing Tools:** Selenium WebDriver, Playwright, Postman, SoapUI, Jira
+- **Frameworks:** Unity, Unreal Engine (Blueprints), TensorFlow.js, CSS Grid Systems
+- **Domains:** PHIPA-regulated systems, Web Applications, Game Engines
 
 ---
 
@@ -24,19 +28,20 @@ I am a detail-oriented Quality Assurance professional based in Toronto, with a b
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Fire Emblem Matchmaker](https://github.com/ReginaExMachina/fire-emblem-matchmaker)** | A Python-based tool for optimizing character pairings using logic-based algorithms. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **[Scaffold](https://github.com/ReginaExMachina/scaffold)** | A light-weight, easy-to-edit CSS grid system designed for rapid web prototyping. | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
-| **[Untold Island](https://github.com/ReginaExMachina/Untold-Island)** | A single-player adventure game developed as part of a collaborative dev team. | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) |
-| **[Digital Health Passport](https://github.com/ReginaExMachina/Digital-Health-Passport)** | Forked contribution for the 2021 Seneca Hackathon focused on healthcare accessibility. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **[The Business of Cinema](https://reginaexmachina.github.io/#data)** | A data-driven investigation into film profitability using statistical modeling. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **[Animal Detection](https://reginaexmachina.github.io/#ml)** | Real-time computer vision model using TensorFlow.js to classify wildlife. | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **[Untold Island](https://github.com/TempestTech/Untold-Island)** | A single-player adventure focused on narrative immersion and technical systems. | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) |
+| **[Labyrinthine](https://github.com/ReginaExMachina/GAM537_A1)** | Unreal Engine title featuring custom maze design and asset integration. | ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) |
 
 ---
 
 ### 📊 GitHub Stats:
-![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaExMachina&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaExMachina&layout=compact&theme=tokyonight)
+![Rachel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReginaExMachina&show_icons=true&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReginaExMachina&layout=compact&theme=rose_pine)
 
 ---
 
 ### 📫 Let's Connect:
+- **Portfolio:** [reginaexmachina.github.io](https://reginaexmachina.github.io/)
 - **LinkedIn:** [dayrachel](https://www.linkedin.com/in/dayrachel)
-- **Portfolio:** [ReginaExMachina](https://github.com/ReginaExMachina)
+- **Email:** [rachel.day.pro@gmail.com](mailto:rachel.day.pro@gmail.com)
